@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClaudioBarrera25
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and combustion research
 - 🌱 I’m currently learning Python and soon Javascript
 
 <!---
